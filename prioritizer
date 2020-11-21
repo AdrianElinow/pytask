@@ -1,0 +1,34 @@
+
+organize tasks and projects according to various aspects and tags
+
+
+Item:
+    title
+    itemtype
+    tags
+    notes
+    deadline
+    done
+    children
+
+
+example commands:
+    
+    new list
+        title? > CSC-476
+        tags?  > csc school
+        notes? > 
+    new task
+        title? > homework #4
+        tags?  > csc hw school
+        notes? >
+        deadline? > 
+    new task title="homework-4" tags="csc hw school"
+    new stage
+        title? > 
+        tags?  > 
+        notes? > 
+        deadline? > 
+    new stage title
+
+

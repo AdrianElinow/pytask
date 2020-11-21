@@ -1,0 +1,119 @@
+
+{
+    "title":"Classwork",
+    "itemtype":"list",
+    "tags":[],
+    "notes":"for school",
+    "deadline":["",""],
+    "done":false,
+    "children":[
+        {
+            "title":"CSC",
+            "itemtype":"list",
+            "tags":["csc"],
+            "notes":"CompSci Classes",
+            "deadline":["",""],
+            "done":false,
+            "children":[
+                {
+                    "title":"CSC-331",
+                    "itemtype":"list",
+                    "tags":["csc"],
+                    "notes":"Operating Systems Classwork",
+                    "deadline":["",""],
+                    "done":false,
+                    "children":[
+                        {
+                            "title":"Assignment_#3",
+                            "itemtype":"project",
+                            "tags":["csc"],
+                            "notes":"",
+                            "deadline":["",""],
+                            "done":false,
+                            "children":[]
+                        }
+                    ]
+                },
+                {
+                    "title":"CSC-476",
+                    "itemtype":"list",
+                    "tags":["csc"],
+                    "notes":"Game Dev Classwork",
+                    "deadline":["",""],
+                    "done":false,
+                    "children":[
+                        {
+                            "title":"Homework_#4",
+                            "itemtype":"project",
+                            "tags":["csc"],
+                            "notes":"",
+                            "deadline":["",""],
+                            "done":false,
+                            "children":[]
+                        },
+                        {
+                            "title":"Exam_#2",
+                            "itemtype":"project",
+                            "tags":["csc"],
+                            "notes":"",
+                            "deadline":["",""],
+                            "done":true,
+                            "children":[]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title":"ENG-371",
+            "itemtype":"list",
+            "tags":["eng"],
+            "notes":"Technical Writing Classwork",
+            "deadline":["",""],
+            "done":false,
+            "children":[
+                {
+                    "title":"Project_#3",
+                    "itemtype":"project",
+                    "tags":["eng"],
+                    "notes":"Instruction Set assignment",
+                    "deadline":["",""],
+                    "done":false,
+                    "children":[
+
+                        {
+                            "title":"Take_Photos",
+                            "itemtype":"task",
+                            "tags":["eng"],
+                            "notes":"take photos during build process",
+                            "deadline":["",""],
+                            "done":true,
+                            "children":[]
+                        },
+                        {
+                            "title":"Type_up_Project",
+                            "itemtype":"task",
+                            "tags":["eng"],
+                            "notes":"also import photos",
+                            "deadline":["",""],
+                            "done":false,
+                            "children":[]
+                        },
+                        {
+                            "title":"Submit",
+                            "itemtype":"task",
+                            "tags":["eng"],
+                            "notes":"submit to D2L",
+                            "deadline":["",""],
+                            "done":false,
+                            "children":[]
+                        }
+
+                    ]
+                }
+            ]
+        }   
+    ]
+}
+
+
